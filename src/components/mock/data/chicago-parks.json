@@ -1,0 +1,104 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Entoto Park Sululta Gate",
+        "description": "Some Place in Ethiopia"
+      },
+      "geometry": {
+        "coordinates": [38.72934719413407, 9.089282920941356],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Derge",
+        "description": "Some Place in Ethiopia"
+      },
+      "geometry": {
+        "coordinates": [37.69168910340041, 9.51475821703398],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Millennium Park",
+        "description": "Some Place in Ethiopia"
+      },
+      "geometry": {
+        "coordinates": [37.50986915208071, 9.523760450245733],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Grant Park",
+        "description": "A downtown park that is the site of many of Chicago's favorite festivals and events"
+      },
+      "geometry": {
+        "coordinates": [-87.619185, 41.876367],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Humboldt Park",
+        "description": "A large park on Chicago's northwest side"
+      },
+      "geometry": {
+        "coordinates": [-87.70199, 41.905423],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Douglas Park",
+        "description": "A large park near in Chicago's North Lawndale neighborhood"
+      },
+      "geometry": {
+        "coordinates": [-87.699329, 41.860092],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Calumet Park",
+        "description": "A park on the Illinois-Indiana border featuring a historic fieldhouse"
+      },
+      "geometry": {
+        "coordinates": [-87.530221, 41.715515],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jackson Park",
+        "description": "A lakeside park that was the site of the 1893 World's Fair"
+      },
+      "geometry": {
+        "coordinates": [-87.580389, 41.783185],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Columbus Park",
+        "description": "A large park in Chicago's Austin neighborhood"
+      },
+      "geometry": {
+        "coordinates": [-87.769775, 41.873683],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

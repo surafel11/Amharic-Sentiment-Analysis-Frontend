@@ -1,13 +1,27 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@font-face {
+    font-family: 'Adwa';
+    src: local('Adwa'), url(./fonts/Adwa-Bold.ttf) format('opentype');
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+    font-family: 'Adwa';
+    font-weight: 900;
+    src: local('Adwa'), url(./fonts/AdwaSansSerif-Bold.ttf) format('opentype');
+}
+
+@font-face {
+    font-family: 'Adwa';
+    font-weight: 900;
+    src: local('Adwa'), url(./fonts/AdwaSansSerif-Regular.ttf) format('opentype');
+}
+
+@font-face {
+    font-family: 'Ebrima';
+    src: local('Ebrima'), url(./fonts/ebrima.ttf) format('opentype');
+}
+
+@font-face {
+    font-family: 'Ebrima';
+    font-weight: 900;
+    src: local('Ebrima'), url(./fonts/ebrimabd.ttf) format('opentype');
 }
